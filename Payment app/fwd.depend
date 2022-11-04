@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1663679219 source:d:\fwd\fwd\card.c
+	"types.h"
+
+1663679219 d:\fwd\fwd\types.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663679219 source:d:\fwd\fwd\linearsearch.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\server.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\terminal.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\card.c
+	"types.h"
+
+1663679219 d:\fwd\fwd\atm project\types.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663679219 source:d:\fwd\fwd\atm project\linearsearch.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\server.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\terminal.c
+	"types.h"
+
