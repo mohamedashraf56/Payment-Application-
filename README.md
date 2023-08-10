@@ -1,4 +1,4 @@
-Payment Application (Embedded Systems Track Nano Degree provided by UDACITY and Egyptian FWD) .
+Payment Application (Embedded Systems Track Nano Degree provided by UDACITY and Egyptian FWD) 
 
 ![image](https://user-images.githubusercontent.com/110823285/200069373-cced99e7-702d-43e8-9eab-8911d0860550.png)
 
